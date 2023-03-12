@@ -1,4 +1,5 @@
-# OSINT x Phone
+# OSINT MX
+## OSINT X Phone
 
 This script retrieves information about a Mexican phone number using the ifetel API. It takes a single positional argument for the phone number to look up, and loads the API key from a `config.json` file located in the same directory as the script. One of the few tools designed to retrieve data from Mexican ciizens in the context of OSINT Investigation.
 
@@ -58,6 +59,7 @@ python3 OSINT-x-Phone.py -h
 			             ======================                        
 			              Author: Edgar Medina                         
 			             ======================
+				     
             usage: OSINT-x-Phone.py [-h] phone
 
 		Retrieve information about a Mexican phone number using the ifetel API
