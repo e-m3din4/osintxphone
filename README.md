@@ -15,7 +15,7 @@ This script retrieves information about a Mexican phone number using the ifetel 
 
 ## Usage 
 
-Run the script by running `python3 OSINT-x-Phone.py <phone_number>` in your terminal, replacing `<phone_number>` with the phone number you want to look up.
+Run the script: `python3 OSINT-x-Phone.py <phone_number>` in your terminal, replacing `<phone_number>` with the phone number you want to look up or -h for the help menu.
 
 python3 OSINT-x-Phone.py -h        
 
